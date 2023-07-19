@@ -2,19 +2,18 @@
   "name": "filter-utils-xxx",
   "version": "1.0.2",
   "author": "xxx",
-  "description": "common toolkit",
+  "description": "只是为了测试发布npm依赖, 此包可能无法使用",
   "keywords": [
     "utils",
     "format",
-    "money",
-    "phone"
+    "filter"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/xiaoxietxue/filter-u.git"
   },
   "license": "ISC",
-  "homepage": "https://your-package.org",
+  "homepage": "https://www.npmjs.com/package/filter-utils-xxx?activeTab=readme",
   "bugs": "https://github.com/xiaoxietxue/filter-u.git/issues",
   "main": "index.js",
   "scripts": {
